@@ -10,3 +10,4 @@ $(APPNAME) : $(OBJ)
 clean :
 	rm $(OBJ) $(APPNAME) 
 
+#clean
